@@ -9,8 +9,8 @@ namespace musica1
             Console.ForegroundColor=ConsoleColor.Green;
             Console.WriteLine("Atirei o pau no Gato");
             Console.WriteLine();
-           Console.ForegroundColor=ConsoleColor.Blue;
-        Console.WriteLine("Atirei o pau no Gato");
+            Console.ForegroundColor=ConsoleColor.Blue;
+            Console.WriteLine("Atirei o pau no Gato");
             Console.WriteLine("Atirei o pau no Gato");
             Console.WriteLine("Atirei o pau no Gato");
             Console.ForegroundColor=ConsoleColor.Green;
@@ -20,7 +20,8 @@ namespace musica1
             Console.WriteLine("Atirei o pau no Gato");
             Console.ForegroundColor=ConsoleColor.White;
             Console.WriteLine("Atirei o pau no Gato");
+            Console.ResetColor();
 
-}
+       }
     }
 }
